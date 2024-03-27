@@ -12,7 +12,7 @@ apt update && apt upgrade
 #  ----------------------------------------- Install general utilities -----------------------------------------
 
 # apt installations
-apt install zsh curl wget neofetch cmatrix cowsay virtualbox
+apt install zsh curl wget neofetch cmatrix cowsay virtualbox virtualbox-ext-pack
 
 # remove firefox
 apt remove firefox
